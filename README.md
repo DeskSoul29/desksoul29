@@ -33,6 +33,7 @@
   <code><img title="Python" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/python-original.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/django.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/javascript.svg"></code>
+  <code><img title="GO" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/go.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/css.svg"></code>
   <code><img title="SASS" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/sass.svg"></code>
@@ -42,6 +43,7 @@
   <code><img title="Git" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/postgresql.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/mongodb.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/jquery-original.svg"></code>
