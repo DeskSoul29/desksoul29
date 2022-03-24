@@ -27,34 +27,34 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/django.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/javascript.svg"></code>
+  <code><img title="C" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/django.png"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/javascript.svg"></code>
   <code><img title="GO" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/go.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/sass.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/postgresql.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/css.svg"></code>
+  <code><img title="SASS" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/sass.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/redux.svg"></code>
+  <code><img title="AngularJS" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/angularjs.png"></code>
+  <code><img title="Git" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/postgresql.svg"></code>
   <code><img title="MongoDB" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/mongodb.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/json.svg"></code>
-  <code><img title="Unity" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="https://github.com/brayangomez22/brayangomez22/blob/main/images/php.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/json.svg"></code>
+  <code><img title="Unity" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/unity3d.svg"></code>
+  <code><img title="Android" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/android.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="https://github.com/DeskSoul29/desksoul29/blob/main/images/php.svg"></code>
 </p>
 <hr>
 
